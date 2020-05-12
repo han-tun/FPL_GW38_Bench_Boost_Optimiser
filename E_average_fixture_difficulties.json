@@ -1,0 +1,182 @@
+{
+    "Norwich": {
+        "num_fixtures": 9,
+        "difficulties": {
+            "Goalkeeper": 3.48,
+            "Defender": 3.06,
+            "Midfielder": 2.71,
+            "Forward": 3.2
+        }
+    },
+    "Bournemouth": {
+        "num_fixtures": 9,
+        "difficulties": {
+            "Goalkeeper": 3.69,
+            "Defender": 3.53,
+            "Midfielder": 3.52,
+            "Forward": 3.53
+        }
+    },
+    "Chelsea": {
+        "num_fixtures": 9,
+        "difficulties": {
+            "Goalkeeper": 3.44,
+            "Defender": 2.9,
+            "Midfielder": 3.1,
+            "Forward": 3.47
+        }
+    },
+    "Sheffield Utd": {
+        "num_fixtures": 10,
+        "difficulties": {
+            "Goalkeeper": 3.58,
+            "Defender": 3.06,
+            "Midfielder": 3.14,
+            "Forward": 2.86
+        }
+    },
+    "Burnley": {
+        "num_fixtures": 9,
+        "difficulties": {
+            "Goalkeeper": 3.93,
+            "Defender": 3.25,
+            "Midfielder": 3.01,
+            "Forward": 3.72
+        }
+    },
+    "Newcastle": {
+        "num_fixtures": 9,
+        "difficulties": {
+            "Goalkeeper": 3.42,
+            "Defender": 3.19,
+            "Midfielder": 3.15,
+            "Forward": 3.17
+        }
+    },
+    "Everton": {
+        "num_fixtures": 9,
+        "difficulties": {
+            "Goalkeeper": 3.73,
+            "Defender": 3.31,
+            "Midfielder": 3.29,
+            "Forward": 3.32
+        }
+    },
+    "Leicester": {
+        "num_fixtures": 9,
+        "difficulties": {
+            "Goalkeeper": 3.17,
+            "Defender": 2.73,
+            "Midfielder": 3.31,
+            "Forward": 3.53
+        }
+    },
+    "Southampton": {
+        "num_fixtures": 9,
+        "difficulties": {
+            "Goalkeeper": 3.2,
+            "Defender": 2.85,
+            "Midfielder": 3.3,
+            "Forward": 3.46
+        }
+    },
+    "Brighton": {
+        "num_fixtures": 9,
+        "difficulties": {
+            "Goalkeeper": 3.33,
+            "Defender": 3.14,
+            "Midfielder": 2.89,
+            "Forward": 3.34
+        }
+    },
+    "West Ham": {
+        "num_fixtures": 9,
+        "difficulties": {
+            "Goalkeeper": 3.55,
+            "Defender": 2.89,
+            "Midfielder": 2.96,
+            "Forward": 3.27
+        }
+    },
+    "Spurs": {
+        "num_fixtures": 9,
+        "difficulties": {
+            "Goalkeeper": 2.98,
+            "Defender": 2.78,
+            "Midfielder": 3.26,
+            "Forward": 3.76
+        }
+    },
+    "Watford": {
+        "num_fixtures": 9,
+        "difficulties": {
+            "Goalkeeper": 3.16,
+            "Defender": 3.14,
+            "Midfielder": 2.79,
+            "Forward": 3.39
+        }
+    },
+    "Aston Villa": {
+        "num_fixtures": 10,
+        "difficulties": {
+            "Goalkeeper": 3.51,
+            "Defender": 3.13,
+            "Midfielder": 3.48,
+            "Forward": 3.94
+        }
+    },
+    "Man Utd": {
+        "num_fixtures": 9,
+        "difficulties": {
+            "Goalkeeper": 3.51,
+            "Defender": 2.74,
+            "Midfielder": 3.26,
+            "Forward": 3.18
+        }
+    },
+    "Crystal Palace": {
+        "num_fixtures": 9,
+        "difficulties": {
+            "Goalkeeper": 3.85,
+            "Defender": 3.4,
+            "Midfielder": 3.51,
+            "Forward": 3.06
+        }
+    },
+    "Wolves": {
+        "num_fixtures": 9,
+        "difficulties": {
+            "Goalkeeper": 3.45,
+            "Defender": 2.66,
+            "Midfielder": 2.72,
+            "Forward": 3.02
+        }
+    },
+    "Man City": {
+        "num_fixtures": 10,
+        "difficulties": {
+            "Goalkeeper": 3.04,
+            "Defender": 2.32,
+            "Midfielder": 2.76,
+            "Forward": 2.94
+        }
+    },
+    "Liverpool": {
+        "num_fixtures": 9,
+        "difficulties": {
+            "Goalkeeper": 3.47,
+            "Defender": 3.12,
+            "Midfielder": 3.01,
+            "Forward": 3.24
+        }
+    },
+    "Arsenal": {
+        "num_fixtures": 10,
+        "difficulties": {
+            "Goalkeeper": 3.66,
+            "Defender": 3.07,
+            "Midfielder": 3.21,
+            "Forward": 3.05
+        }
+    }
+}

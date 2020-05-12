@@ -1,0 +1,362 @@
+{
+    "Norwich": {
+        "Goalkeeper": {
+            "H": 2.54,
+            "A": 3.4
+        },
+        "Defender": {
+            "H": 1.0,
+            "A": 2.69
+        },
+        "Midfielder": {
+            "H": 2.89,
+            "A": 2.91
+        },
+        "Forward": {
+            "H": 1.49,
+            "A": 1.08
+        }
+    },
+    "Bournemouth": {
+        "Goalkeeper": {
+            "H": 3.18,
+            "A": 3.32
+        },
+        "Defender": {
+            "H": 2.24,
+            "A": 2.77
+        },
+        "Midfielder": {
+            "H": 1.2,
+            "A": 2.16
+        },
+        "Forward": {
+            "H": 3.27,
+            "A": 2.07
+        }
+    },
+    "Chelsea": {
+        "Goalkeeper": {
+            "H": 4.75,
+            "A": 1.92
+        },
+        "Defender": {
+            "H": 4.42,
+            "A": 1.9
+        },
+        "Midfielder": {
+            "H": 3.59,
+            "A": 3.6
+        },
+        "Forward": {
+            "H": 2.86,
+            "A": 4.72
+        }
+    },
+    "Sheffield Utd": {
+        "Goalkeeper": {
+            "H": 4.36,
+            "A": 3.16
+        },
+        "Defender": {
+            "H": 3.56,
+            "A": 2.13
+        },
+        "Midfielder": {
+            "H": 4.09,
+            "A": 3.71
+        },
+        "Forward": {
+            "H": 4.57,
+            "A": 4.02
+        }
+    },
+    "Burnley": {
+        "Goalkeeper": {
+            "H": 4.05,
+            "A": 2.99
+        },
+        "Defender": {
+            "H": 2.65,
+            "A": 2.66
+        },
+        "Midfielder": {
+            "H": 2.3,
+            "A": 1.81
+        },
+        "Forward": {
+            "H": 2.83,
+            "A": 4.07
+        }
+    },
+    "Newcastle": {
+        "Goalkeeper": {
+            "H": 3.3,
+            "A": 1.2
+        },
+        "Defender": {
+            "H": 2.55,
+            "A": 1.38
+        },
+        "Midfielder": {
+            "H": 1.16,
+            "A": 2.79
+        },
+        "Forward": {
+            "H": 2.28,
+            "A": 4.41
+        }
+    },
+    "Everton": {
+        "Goalkeeper": {
+            "H": 4.13,
+            "A": 2.4
+        },
+        "Defender": {
+            "H": 3.54,
+            "A": 2.29
+        },
+        "Midfielder": {
+            "H": 1.87,
+            "A": 3.49
+        },
+        "Forward": {
+            "H": 1.0,
+            "A": 4.17
+        }
+    },
+    "Leicester": {
+        "Goalkeeper": {
+            "H": 3.1,
+            "A": 4.53
+        },
+        "Defender": {
+            "H": 4.4,
+            "A": 3.19
+        },
+        "Midfielder": {
+            "H": 4.27,
+            "A": 4.21
+        },
+        "Forward": {
+            "H": 5.0,
+            "A": 3.34
+        }
+    },
+    "Southampton": {
+        "Goalkeeper": {
+            "H": 3.86,
+            "A": 2.76
+        },
+        "Defender": {
+            "H": 4.15,
+            "A": 1.97
+        },
+        "Midfielder": {
+            "H": 3.49,
+            "A": 1.0
+        },
+        "Forward": {
+            "H": 3.39,
+            "A": 1.24
+        }
+    },
+    "Brighton": {
+        "Goalkeeper": {
+            "H": 3.93,
+            "A": 2.39
+        },
+        "Defender": {
+            "H": 2.62,
+            "A": 1.98
+        },
+        "Midfielder": {
+            "H": 2.39,
+            "A": 3.88
+        },
+        "Forward": {
+            "H": 3.87,
+            "A": 2.43
+        }
+    },
+    "West Ham": {
+        "Goalkeeper": {
+            "H": 2.95,
+            "A": 3.6
+        },
+        "Defender": {
+            "H": 2.42,
+            "A": 2.65
+        },
+        "Midfielder": {
+            "H": 1.5,
+            "A": 1.94
+        },
+        "Forward": {
+            "H": 3.35,
+            "A": 1.95
+        }
+    },
+    "Spurs": {
+        "Goalkeeper": {
+            "H": 3.6,
+            "A": 4.2
+        },
+        "Defender": {
+            "H": 3.84,
+            "A": 2.55
+        },
+        "Midfielder": {
+            "H": 3.87,
+            "A": 3.87
+        },
+        "Forward": {
+            "H": 2.38,
+            "A": 3.18
+        }
+    },
+    "Watford": {
+        "Goalkeeper": {
+            "H": 3.24,
+            "A": 1.0
+        },
+        "Defender": {
+            "H": 2.45,
+            "A": 1.0
+        },
+        "Midfielder": {
+            "H": 1.0,
+            "A": 3.43
+        },
+        "Forward": {
+            "H": 4.48,
+            "A": 2.85
+        }
+    },
+    "Aston Villa": {
+        "Goalkeeper": {
+            "H": 3.12,
+            "A": 3.82
+        },
+        "Defender": {
+            "H": 3.14,
+            "A": 2.87
+        },
+        "Midfielder": {
+            "H": 1.45,
+            "A": 3.49
+        },
+        "Forward": {
+            "H": 2.29,
+            "A": 1.0
+        }
+    },
+    "Man Utd": {
+        "Goalkeeper": {
+            "H": 1.0,
+            "A": 3.41
+        },
+        "Defender": {
+            "H": 2.55,
+            "A": 3.07
+        },
+        "Midfielder": {
+            "H": 3.72,
+            "A": 5.0
+        },
+        "Forward": {
+            "H": 4.93,
+            "A": 3.95
+        }
+    },
+    "Crystal Palace": {
+        "Goalkeeper": {
+            "H": 3.92,
+            "A": 2.29
+        },
+        "Defender": {
+            "H": 3.0,
+            "A": 1.73
+        },
+        "Midfielder": {
+            "H": 3.72,
+            "A": 3.57
+        },
+        "Forward": {
+            "H": 3.43,
+            "A": 4.12
+        }
+    },
+    "Wolves": {
+        "Goalkeeper": {
+            "H": 4.56,
+            "A": 4.59
+        },
+        "Defender": {
+            "H": 3.68,
+            "A": 3.45
+        },
+        "Midfielder": {
+            "H": 3.77,
+            "A": 3.74
+        },
+        "Forward": {
+            "H": 4.34,
+            "A": 3.11
+        }
+    },
+    "Man City": {
+        "Goalkeeper": {
+            "H": 2.71,
+            "A": 5.0
+        },
+        "Defender": {
+            "H": 4.74,
+            "A": 5.0
+        },
+        "Midfielder": {
+            "H": 3.03,
+            "A": 2.93
+        },
+        "Forward": {
+            "H": 4.87,
+            "A": 4.04
+        }
+    },
+    "Liverpool": {
+        "Goalkeeper": {
+            "H": 5.0,
+            "A": 5.0
+        },
+        "Defender": {
+            "H": 5.0,
+            "A": 4.87
+        },
+        "Midfielder": {
+            "H": 5.0,
+            "A": 4.47
+        },
+        "Forward": {
+            "H": 4.55,
+            "A": 5.0
+        }
+    },
+    "Arsenal": {
+        "Goalkeeper": {
+            "H": 4.29,
+            "A": 4.44
+        },
+        "Defender": {
+            "H": 2.92,
+            "A": 4.22
+        },
+        "Midfielder": {
+            "H": 3.18,
+            "A": 2.9
+        },
+        "Forward": {
+            "H": 3.73,
+            "A": 2.72
+        }
+    }
+}
