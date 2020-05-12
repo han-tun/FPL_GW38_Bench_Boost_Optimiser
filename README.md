@@ -40,3 +40,4 @@ For a budget of 101.5m, the optimiser suggests the following team:
  - It is not confirmed that all remaining fixtures will be moved to Gameweek 38. Playing the bench boost chip is not guaranteed to be a good decision, but the upside of having a bench boost for such a gameweek is huge for a relatively small downside.
  - The function that scores each player is flawed because it doesn't take into account players that have moved to their club in January.
  - You can not play two chips in one gameweek, so it is too late to wildcard during GW37 and bench boost for GW38
+ - The files are named like they are so that it is easier to follow how the data was gathered.
